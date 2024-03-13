@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/webfilm/static/css/main.242b3181.css",
+    "main.js": "/webfilm/static/js/main.bcc5290f.js",
+    "static/js/453.86c00660.chunk.js": "/webfilm/static/js/453.86c00660.chunk.js",
+    "static/media/gambar.jpeg": "/webfilm/static/media/gambar.259efb34108b9cdff510.jpeg",
+    "index.html": "/webfilm/index.html",
+    "main.242b3181.css.map": "/webfilm/static/css/main.242b3181.css.map",
+    "main.bcc5290f.js.map": "/webfilm/static/js/main.bcc5290f.js.map",
+    "453.86c00660.chunk.js.map": "/webfilm/static/js/453.86c00660.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.242b3181.css",
+    "static/js/main.bcc5290f.js"
+  ]
+}
